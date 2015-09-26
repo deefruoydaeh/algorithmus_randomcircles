@@ -14,3 +14,6 @@ The first of three tasks was all about algorithms. First, we should think about 
 
 >draw alternating red and green rows until the time is over
 
+
+##The Results
+
