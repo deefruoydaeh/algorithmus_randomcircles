@@ -87,11 +87,18 @@ void polygon(int n, float cx, float cy, float r) {
   endShape(CLOSE);
 }
 
+  //setup polygones
+
 void drawPolygonPattern(int polygonSize) {
+
+  //variables for place of polygonlines
 
   float screenWidth = width;
   float screenHeight = width;
   float offset = polygonSize * 2;
+
+  //create random place for polygonlines and make sure they don't lie on top of each other
+
 
   int polygonAmountX = int(screenWidth / polygonSize) / 2;
   int polygonAmountY= int(screenHeight / polygonSize);
