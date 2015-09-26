@@ -2,6 +2,8 @@ boolean circlesDrawn = false;
 boolean polygonsDrawn = false;
 color backgroundColor = color(220, 227, 228);
 
+  // setup background
+
 void setup() {
   size(800, 800);
   background(backgroundColor); //gray background
@@ -26,10 +28,17 @@ color[] generateColorsWithVariation(color[] myColors) {
 
   for (int i = 0; i < myColors.length; i++) {
 
+      //create almost random place
+
+
     float variationValue = random(0.8, 1.2);
+
+      //create values for colors
 
     int minValue = 50;
     int maxValue = 200;
+
+      //create randomized colors
 
     float newColorR = constrain(red(myColors[i]) * variationValue, minValue, maxValue);
     float newColorG = constrain(green(myColors[i]) * variationValue, minValue, maxValue);
