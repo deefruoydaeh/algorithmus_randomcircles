@@ -6,7 +6,7 @@ The first of three tasks was all about algorithms. First, we should think about 
 
 
 >take a red pencil.
->draw vertical ordered, on vertex touching rhombi from the top to the bottom of the sheet.
+>draw vertical ordered, on vertex touching rhombi from the top to the bottom of the sheet.Markdown
 >the size has to be between two to four fingerbreadth.
 >the positiones of the rhombuslines are random, they can get close but do not touch.
 >draw alternating red and green rows until the time is over.
