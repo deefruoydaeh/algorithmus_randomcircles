@@ -6,12 +6,8 @@ The first of three tasks was all about algorithms. First, we should think about 
 
 
 >-take a red pencil
-
 >-draw vertical ordered, on vertex touching rhombi from the top to the bottom of the sheet
-
 >-size between two to four fingerbreadth
-
 >-positiones of rhombuslines are random, they can get close but do not touch
-
 >-draw alternating red and green rows
 
