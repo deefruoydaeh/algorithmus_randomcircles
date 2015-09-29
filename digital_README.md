@@ -1,11 +1,11 @@
 #README 
 ##Algorithmus *digital*
 
-After making an analog, we continuted to convert our algorithm into digital form. 
-I choosed to try out the programming language "Processing" but I wanted to recieve an more interesting and beautiful 
+After making an analog algorithm, we continuted to convert it into digital form. 
+I chose to try out the programming language "Processing" but I wanted to recieve a more interesting and beautiful 
 result and changed the directions. To the rhombuslines I added six bubbles with random but harmonic colors, 
-which size and arrangement is also determinate by chance. The rhombi should not be red and green anymore. 
-I wanted them to be a neutral tone of grey, the same as the background, so they would be only visible in
+which sizes and arrangements are varied by chance. The rhombi should not be red and green anymore. 
+I wanted them to receive a neutral tone of grey, the same as the background, so they would only be visible in
 front of the Bubbles.
 
 ![](https://cloud.githubusercontent.com/assets/12065257/10163766/5d39b25e-66b5-11e5-93a2-76c00275f93e.jpeg)
@@ -14,7 +14,7 @@ notes while learning to write my code with processing
 
 ##The Results
 
-When running the code, you recieve one or another pretty composition. I am especially pleased by the color 
+When running the code, you receive one or another pretty composition. I am especially pleased by the color 
 arrangements.
 
 ![](https://cloud.githubusercontent.com/assets/12065257/10160386/778ff6a8-669d-11e5-9227-5d1132a0989c.png)
