@@ -18,3 +18,6 @@ The first of three tasks was all about algorithms. First, we should think about 
 
 ##The Results
 
+Without any other direction than the algorithm, I recieved multifarious results. Some are easy to comprehend for me because the instructions also gives you little interpretable space. But some others are very funny and surprising and a bit unaccountable.
+
+master: https://cloud.githubusercontent.com/assets/12065257/10159113/b097702c-6696-11e5-8ab9-712c5b31d1a5.jpeg
