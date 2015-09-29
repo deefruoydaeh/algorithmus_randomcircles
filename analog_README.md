@@ -1,7 +1,7 @@
 #README 
 ##Algorithmus *analog*
 
-The first of three tasks was all about algorithms. First, we should think about an analog conceptual formulation for an picture we want others to create within 30 seconds without any additional statment from us. For example we had to decide which material, paper and colors should be used, or any other specific parameter to conceive an unique in advance expectable result. In two weeks of testing and improving I developed this algorithm:
+The first of three tasks were all about algorithms. First, we had to think about an analog conceptual formulation for a picture we wanted others to create within 30 seconds without any additional statment. For example we had to decide which material, paper and colors should be used, or any other specific parameter to conceive a unique and advanced expectable result. In two weeks of testing and improving I developed this algorithm:
 
 >**Follow the instructions on a horizontal format sheet of white paper in A4:**
 
@@ -18,7 +18,7 @@ The first of three tasks was all about algorithms. First, we should think about 
 
 ##The Results
 
-Without any other direction than the algorithm, I recieved multifarious results. Some are easy to comprehend for me because the instructions also gives you little interpretable space. But some others are very funny and surprising and a bit unaccountable.
+Without any other direction than the algorithm, I recieved multifarious results. For me some are easy to comprehend because the instructions also gives you little interpretable space. But some others are very funny and surprising and a bit unaccountable.
 
 ![](https://cloud.githubusercontent.com/assets/12065257/10159114/b099eb5e-6696-11e5-8516-49f034212e2a.jpeg)
 ![](https://cloud.githubusercontent.com/assets/12065257/10159117/b09d78e6-6696-11e5-85d6-b4677cb6bf38.jpeg)
