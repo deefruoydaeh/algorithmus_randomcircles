@@ -31,10 +31,10 @@ Without any other direction than the algorithm, I recieved multifarious results.
 
 1. An Person
 
-⋅⋅* with 30sec time
+⋅⋅⋅ with 30sec time
 
 2. Writing Things
 
-⋅⋅* red and green pencil
-⋅⋅* sheet of paper
+⋅⋅⋅ red and green pencil
+⋅⋅⋅ sheet of paper
 
