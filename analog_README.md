@@ -29,7 +29,7 @@ Without any other direction than the algorithm, I recieved multifarious results.
 
 ##Prerequisite
 
-1. An Person
+1. A Person
 
   -with 30sec time
 
