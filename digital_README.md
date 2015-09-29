@@ -9,6 +9,7 @@ I wanted them to be a neutral tone of grey, the same as the background, so they 
 front of the Bubbles.
 
 ![](https://cloud.githubusercontent.com/assets/12065257/10163766/5d39b25e-66b5-11e5-93a2-76c00275f93e.jpeg)
+
 notes while learning to write my code with processing
 
 ##The Results
