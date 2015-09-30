@@ -57,7 +57,7 @@ notes while learning to write my code with processing
 ###The Results
 
 When running the code, you receive one or another pretty composition. I am especially pleased by the color 
-arrangements.
+arrangements that sometimes arise.
 
 ![](https://cloud.githubusercontent.com/assets/12065257/10160386/778ff6a8-669d-11e5-9227-5d1132a0989c.png)
 ![](https://cloud.githubusercontent.com/assets/12065257/10160385/778f545a-669d-11e5-864a-509979e4f9bd.png)
@@ -71,3 +71,6 @@ arrangements.
 
 2. Processing (freeware)
 
+###Usage
+
+The result appears in an other window after running the code. If you want a langer or smaller size, I tried to make the code as easy al possible to adjust.
