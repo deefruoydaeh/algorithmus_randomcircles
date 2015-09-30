@@ -17,7 +17,7 @@ The first of three tasks were all about algorithms. First, we had to think about
 >draw alternating red and green rows until the time is over
 
 
-##The Results
+###The Results
 
 Without any other direction than the algorithm, I recieved multifarious results. For me some are easy to comprehend because the instructions also gives you little interpretable space. But some others are very funny and surprising and a bit unaccountable.
 
@@ -28,7 +28,7 @@ Without any other direction than the algorithm, I recieved multifarious results.
 ![](https://cloud.githubusercontent.com/assets/12065257/10159115/b09b393c-6696-11e5-950b-b77cba1e3e15.jpeg)
 
 
-##Prerequisite
+###Prerequisite
 
 1. A Person
 
@@ -54,7 +54,7 @@ front of the Bubbles.
 
 notes while learning to write my code with processing
 
-##The Results
+###The Results
 
 When running the code, you receive one or another pretty composition. I am especially pleased by the color 
 arrangements.
@@ -64,3 +64,10 @@ arrangements.
 ![](https://cloud.githubusercontent.com/assets/12065257/10160383/778a2a48-669d-11e5-98fd-45d7c067dfdd.png)
 ![](https://cloud.githubusercontent.com/assets/12065257/10160384/778d9f52-669d-11e5-9853-85103f7f820b.png)
 ![](https://cloud.githubusercontent.com/assets/12065257/10160387/7796291a-669d-11e5-80cf-f62c248caf16.png)
+
+###Prerequisite
+
+1. computer
+
+2. Processing (freeware)
+
